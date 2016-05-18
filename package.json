@@ -5,7 +5,8 @@
   "description": "A green theme.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "green"
   ],
   "repository": "https://github.com/qolop/shamrock-syntax",
   "license": "MIT",
